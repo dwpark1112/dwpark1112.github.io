@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "첫 글"
+categories: Dev
+tags:	thought
+cover:  "/assets/instacode.png"
+---
+
+업무를 하면서 새롭게 알게된 지식, 문제해결, 고민 등을 일기처럼 남기려는 목적으로 시작함
+누군가에게 보여줄 수 있는 수준의 글을 작성하지 않고, 딱 내가 아는 지식 수준에서 나만을 위해 남김 ㅋㅋ
